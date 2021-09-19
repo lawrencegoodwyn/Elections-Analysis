@@ -32,9 +32,9 @@ An analysis of the Colorado congressional election was taken. Looking at number 
   - Arapahoe: 24,801 (6.7%)
 - Denver County had the largest number of votes with 306,055 votes. 
 - Votes by Candidate
-  -Charles Casper Stockham 85,213 (23%)
-  -Diana DeGette 272,892 (73.8%)
-  -Raymon Anthony Doane 11,606 (3.1%)
+  - Charles Casper Stockham 85,213 (23%)
+  - Diana DeGette 272,892 (73.8%)
+  - Raymon Anthony Doane 11,606 (3.1%)
 - Diana DeGette won the election with 272,892 votes. 
 
 ## Election Audit Summary
