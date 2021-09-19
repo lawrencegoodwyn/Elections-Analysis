@@ -37,7 +37,7 @@ An analysis of the Colorado congressional election was taken. Looking at number 
   -Raymon Anthony Doane 11,606 (3.1%)
 - Diana DeGette won the election with 272,892 votes. 
 
-### Election Audit Summary
+## Election Audit Summary
 
 This script offers great insight to other elections as any data source contained in a .csv can be used. The code could be used as is, or modified and extended to include filters such as percentages of votes per candidate in a county--to give users a more detailed look into how the voters are voting by county. To achieve this, a line of code that contains a conditional statement with the candidate's names and the county within the for loop, would achieve something like this. Moreover, if there was more demographics associated with the ballot information--this data could be greatly expanded to give users a more detailed view of the voting data. Someone would have to extract the demographic from the .csv and then build the code for what they are looking for.
 
