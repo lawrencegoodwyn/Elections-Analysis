@@ -12,7 +12,7 @@ The tasks were
 7. Calculate the percentage of county votes
 8. Determine county with greatest number of votes and percentage of congressional race won. 
 
-[Election Results table](Screen Shot 2021-09-19 at 8.01.55 PM.png)
+[Election Results table](/Screen Shot 2021-09-19 at 8.01.55 PM.png)
 
 ## Resources
 
