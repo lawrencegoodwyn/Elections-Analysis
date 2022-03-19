@@ -1,17 +1,8 @@
 
-# Election analysis
+# Election Analysis
 ## Project Overview
 
-A Colorado Board of Elections has given yout the task of auditing the results of a recent local congressional election. 
-The tasks were
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who recieved votes. 
-3. Calculate the total number of votes each candidate recieved. 
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winner of the election based on the popular vote. 
-6. Count the number of votes per county
-7. Calculate the percentage of county votes
-8. Determine county with greatest number of votes and percentage of congressional race won. 
+This repo takes a glimpse at a Colorado Board of Elections' recent local congressional election.The repo includes a look at the total # of votes, the total counts of candidates who received votes, their respective percentages of votes, a determination of winner based on the popular vote; and county vote measures, including, the number of votes per county, the percentage of votes per county, and the county with the greatest number of votes and percentage of the congressional race won. 
 
 <img width="298" alt="Screen Shot 2021-09-19 at 8 01 55 PM" src="https://user-images.githubusercontent.com/89168119/133947545-762bd03a-9c5e-4d6d-a2c7-ed0f8614c557.png">
 
@@ -44,7 +35,4 @@ This script offers great insight to other elections as any data source contained
 
 ##### Challenge Overview 
 
-The analysis prompted the use of python to sift through the .csv, and iterate through the data for each candidate's votes, as well as aggragating the votes to be assigned to one candidate and find the totals. Using for loops, a lot of the tabulations were able to be done synchronously, as well as calculating and tabulating the data and writing it data to a .txt file.  
-
-##### Challenge Summary
-Using python to declare variables such as candidate_options and candidate_results, allowed us to make use of a lot of python's functions and succinctly amalgamize a large set of data. Many of the variables simply centered around the candidate's--so as long as there were enough variables created, the python functions were pretty straight forward and allowed for a straightforward anaylsis of the data. 
+Using python to highlight much of the data pertaining to each candidate made easy work of sifting through the .csv, and iterating through the data for each candidate's votes, as well as aggragating the votes to be assigned to one candidate and find the totals. Using for loops, a lot of the tabulations were able to be done synchronously, as well as calculating and tabulating the data and writing it data to a .txt file.  
