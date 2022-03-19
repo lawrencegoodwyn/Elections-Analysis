@@ -33,6 +33,6 @@ An analysis of the Colorado congressional election was taken. Looking at number 
 
 This script offers great insight to other elections as any data source contained in a .csv can be used. The code could be used as is, or modified and extended to include filters such as percentages of votes per candidate in a county--to give users a more detailed look into how the voters are voting by county. To achieve this, a line of code that contains a conditional statement with the candidate's names and the county within the for loop, would achieve something like this. Moreover, if there was more demographics associated with the ballot information--this data could be greatly expanded to give users a more detailed view of the voting data. Someone would have to extract the demographic from the .csv and then build the code for what they are looking for.
 
-##### Challenge Overview 
+### Notes
 
-Using python to highlight much of the data pertaining to each candidate made easy work of sifting through the .csv, and iterating through the data for each candidate's votes, as well as aggragating the votes to be assigned to one candidate and find the totals. Using for loops, a lot of the tabulations were able to be done synchronously, as well as calculating and tabulating the data and writing it data to a .txt file.  
+Using python to emphasize much of the data pertaining to each candidate made easy work of sifting through the .csv, and iterating through the data for each candidate's votes, as well as aggragating the votes to be assigned to one candidate and find the totals. Using for loops, a lot of the tabulations were able to be done synchronously, as well as calculating and tabulating the data and writing it data to a .txt file.  
